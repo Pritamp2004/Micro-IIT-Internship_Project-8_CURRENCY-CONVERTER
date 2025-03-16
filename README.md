@@ -4,4 +4,4 @@ Name : PRITAM PATRA
 DOMAIN : FROTEND WEB DEVELOPMENT
 CEO & FOUNDER : VIJAY KUMAR
 
-![Image](https://github.com/user-attachments/assets/a308807f-e758-4546-9f3f-96238d8b4c87)
+![Image](https://github.com/user-attachments/assets/b882ba0c-cec2-4792-84eb-bf98bc3bd84e)
